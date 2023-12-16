@@ -31,9 +31,15 @@ Welcome to Smile, your intuitive and feature-rich voice assistant designed to en
 
 To start using Smile, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/Abhikdr7/Smile.git`
+1. Clone the repository: `git clone https://github.com/Abhikdr7/Smile-Voice-Assistant.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the application: `python voice_assistant.py`
+3. Run the application: `ENDGAME.py`
+
+**Required Dependencies:**
+- `pyttsx3==2.90`
+- `SpeechRecognition==3.8.1`
+- `pyjokes==0.6.0`
+- `requests==2.26.0`
 
 Feel free to explore and customize Smile based on your preferences.
 
@@ -41,12 +47,9 @@ Feel free to explore and customize Smile based on your preferences.
 
 Contributions are welcome! If you have ideas for new features or improvements, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 Special thanks to the developers and contributors who have made Smile possible.
 
 Let your voice guide you with Smile - your virtual companion for a smarter and more efficient lifestyle.
+

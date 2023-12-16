@@ -8,6 +8,9 @@ import smtplib
 import pyjokes
 import requests
 
+class Nikhil:
+    print("hello")
+
 class VoiceAssistant:
     def __init__(self):
         self.engine = pyttsx3.init('sapi5')
